@@ -7,7 +7,7 @@ subtitle: Ph.D. Student in Electrical and Computer Engineering
 profile:
   align: right
   image: my_pic.jpg
-  image_circular: false # 원형으로 자르고 싶으면 true로 변경
+  image_circular: true # 원형으로 자르고 싶으면 true로 변경
   address: >
     <p>Optical Engineering Lab</p>
     <p>Seoul National University</p>
