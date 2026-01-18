@@ -13,11 +13,11 @@
     - name: Email
       value: dndtjq89@snu.ac.kr
     - name: Website
-      value: <a href="https://dndtjq89.github.io">dndtjq89.github.io</a>
+      value: '<a href="https://dndtjq89.github.io">dndtjq89.github.io</a>'
     - name: Lab Homepage
-      value: <a href="https://sites.google.com/view/3doelab" target="_blank">3D Display & Information Processing Lab</a>
+      value: '<a href="https://sites.google.com/view/3doelab" target="_blank">3D Display & Information Processing Lab</a>'
     - name: Socials
-      value: <a href="https://scholar.google.co.kr/citations?user=xvh45fUAAAAJ&hl=ko&oi=ao" target="_blank">Google Scholar</a>
+      value: '<a href="https://scholar.google.co.kr/citations?user=xvh45fUAAAAJ&hl=ko&oi=ao" target="_blank">Google Scholar</a>'
 
 # -----------------------------------------------------------------------------
 # Research Interests
@@ -192,4 +192,4 @@
   type: map
   contents:
     - name: Full List
-      value: Please refer to the <a href="/publications/">Publications</a> tab and <a href="/assets/pdf/CV_W.Han_Dec_2025.pdf" target="_blank">CV.pdf</a> for the complete list of journals and conference papers.
+      value: 'Please refer to the <a href="/publications/">Publications</a> tab and <a href="/assets/pdf/CV_W.Han_Dec_2025.pdf" target="_blank">CV.pdf</a> for the complete list of journals and conference papers.'
