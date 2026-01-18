@@ -32,26 +32,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Electronics and Telecommunications Research Institute (ETRI)",
-      "position": "Researcher",
-      "url": "",
-      "startDate": "2025-08",
-      "endDate": "Present",
-      "summary": "Development of Future Display Integrated Devices and Process Technology",
-      "highlights": []
-    },
-    {
-      "name": "Electronics and Telecommunications Research Institute (ETRI)",
-      "position": "Researcher",
-      "url": "",
-      "startDate": "2022-01",
-      "endDate": "2024-12",
-      "summary": "Near-eye light field device technology development for hyper-realistic metaverse service",
-      "highlights": []
-    }
-  ],
   "volunteer": [],
   "education": [
     {
@@ -89,7 +69,6 @@
       "endDate": "2022-02",
       "score": "4.18/4.5",
       "courses": [
-        "Graduated with Honors"
       ]
     }
   ],
@@ -174,17 +153,6 @@
   "interests": [],
   "references": [],
   "projects": [
-    {
-      "name": "Next-gen XR Device Meta-lens Tech",
-      "description": "National Research Foundation of Korea (NRF)",
-      "highlights": [
-        "Development of technology to improve chromatic aberration of lightweight and hyper-thin geometric phase modulation meta-lens"
-      ],
-      "keywords": [],
-      "startDate": "2024-04",
-      "endDate": "Present",
-      "url": ""
-    },
     {
       "name": "Holographic AR Occlusion Research",
       "description": "National Research Foundation of Korea (NRF)",
