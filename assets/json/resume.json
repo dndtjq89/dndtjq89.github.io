@@ -116,7 +116,7 @@
       "name": "Programming",
       "level": "Advanced",
       "keywords": [
-        "Python (PyTorch, TensorFlow)",
+        "Python (PyTorch)",
         "MATLAB",
         "C/C++"
       ]
@@ -125,9 +125,7 @@
       "name": "Optical Design",
       "level": "Advanced",
       "keywords": [
-        "Zemax OpticStudio",
-        "LightTools",
-        "VirtualLab Fusion"
+        "Zemax OpticStudio"
       ]
     },
     {
@@ -162,6 +160,28 @@
       "keywords": [],
       "startDate": "2022-02",
       "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Development of Future Display Integrated Devices and Process Technology",
+      "description": "Project with Electronics and Telecommunications Research Institute (ETRI)",
+      "highlights": [
+        "Research on super multi-view near-eye displays"
+      ],
+      "keywords": [],
+      "startDate": "2025-08",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Near-eye light field device technology development for hyper-realistic metaverse service",
+      "description": "Project with Electronics and Telecommunications Research Institute (ETRI)",
+      "highlights": [
+        "Research on varifocal near-eye displays"
+      ],
+      "keywords": [],
+      "startDate": "2022-01",
+      "endDate": "2024-12",
       "url": ""
     }
   ]
