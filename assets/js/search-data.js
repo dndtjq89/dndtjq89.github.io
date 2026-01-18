@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Woongseob Han", "_blank");
+          window.open("https://www.linkedin.com/in/woongseob-han-91b44b220", "_blank");
         },
       },{
         id: 'social-scholar',
