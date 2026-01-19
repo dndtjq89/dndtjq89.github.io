@@ -99,7 +99,7 @@
     },
     {
       "title": "Best Poster Paper Award",
-      "date": "2023-08",
+      "date": "2023",
       "awarder": "IMID 2023",
       "summary": "Paper: Varifocal-Occlusion Supported Near-eye Display Using Stack of Geometric Phase Lenses..."
     },
@@ -129,13 +129,13 @@
       ]
     },
     {
-      "name": "Display Tech",
+      "name": "3D Display Tech.",
       "level": "Expert",
       "keywords": [
         "AR/VR Near-eye Displays",
+        "Occlusion Optics",
         "Holography",
-        "Light Field",
-        "Occlusion Optics"
+        "Light Field"
       ]
     },
     {
