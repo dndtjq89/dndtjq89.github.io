@@ -153,8 +153,8 @@
   "projects": [
     {
       "name": "Holographic AR Occlusion Research",
-      "description": "National Research Foundation of Korea (NRF)",
       "highlights": [
+        "National Research Foundation of Korea (NRF)",
         "Research on occlusion-capable holographic augmented reality 3D near-eye display"
       ],
       "keywords": [],
@@ -164,8 +164,8 @@
     },
     {
       "name": "Development of Future Display Integrated Devices and Process Technology",
-      "description": "Project with Electronics and Telecommunications Research Institute (ETRI)",
       "highlights": [
+        "Project with Electronics and Telecommunications Research Institute (ETRI)",
         "Research on super multi-view near-eye displays"
       ],
       "keywords": [],
@@ -175,8 +175,8 @@
     },
     {
       "name": "Near-eye light field device technology development for hyper-realistic metaverse service",
-      "description": "Project with Electronics and Telecommunications Research Institute (ETRI)",
       "highlights": [
+        "Project with Electronics and Telecommunications Research Institute (ETRI)",
         "Research on varifocal near-eye displays"
       ],
       "keywords": [],
