@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-03-04'
 papers:
   xvh45fUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Varifocal near-eye display with extended eyebox using dual slit-mirror array
     year: '2025'
   xvh45fUAAAAJ:2osOgNQ5qMEC:
-    citations: 24
+    citations: 26
     title: Super multi-view near-eye display with a lightguide combiner
     year: '2022'
   xvh45fUAAAAJ:3fE2CSJIrl8C:
@@ -54,7 +54,7 @@ papers:
     title: Field of view and angular-resolution enhancement in microlens array type virtual reality near-eye display using polarization grating
     year: '2025'
   xvh45fUAAAAJ:W7OEmFMy1HYC:
-    citations: 5
+    citations: 6
     title: Slim Maxwellian near-eye display for virtual reality using point light source array
     year: '2024'
   xvh45fUAAAAJ:WF5omc3nYNoC:
@@ -70,11 +70,11 @@ papers:
     title: Compact Near-eye Display for Mixed Reality Using Micro Lens Array and Point Light Source Array
     year: '2024'
   xvh45fUAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: Lightguide type Maxwellian near-eye display with enlarged horizontal field of view by optical reconfiguration of input image
     year: '2022'
   xvh45fUAAAAJ:eQOLeE2rZwMC:
-    citations: 17
+    citations: 16
     title: Varifocal occlusion in an optical see-through near-eye display with a single phase-only liquid crystal on silicon
     year: '2024'
   xvh45fUAAAAJ:hqOjcs7Dif8C:
@@ -82,11 +82,11 @@ papers:
     title: Multifocal near-eye display with a vari-focal lens and adjustable aperture
     year: '2025'
   xvh45fUAAAAJ:u-x6o8ySG0sC:
-    citations: 46
+    citations: 47
     title: Waveguide-type Maxwellian near-eye display using a pin-mirror holographic optical element array
     year: '2022'
   xvh45fUAAAAJ:ufrVoPGSRksC:
-    citations: 27
+    citations: 28
     title: 'Recent applications of optical elements in augmented and virtual reality displays: a review'
     year: '2024'
   xvh45fUAAAAJ:zYLM7Y9cAGgC:
