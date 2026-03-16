@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-16'
 papers:
   xvh45fUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Thin virtual reality display presenting Maxwellian and super-multiview three-dimensional images
     year: '2025'
   xvh45fUAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Enhancing Realism in Holographic Augmented Reality Displays Through Occlusion Handling
     year: '2025'
   xvh45fUAAAAJ:9yKSN-GCB0IC:
@@ -86,7 +86,7 @@ papers:
     title: Waveguide-type Maxwellian near-eye display using a pin-mirror holographic optical element array
     year: '2022'
   xvh45fUAAAAJ:ufrVoPGSRksC:
-    citations: 28
+    citations: 29
     title: 'Recent applications of optical elements in augmented and virtual reality displays: a review'
     year: '2024'
   xvh45fUAAAAJ:zYLM7Y9cAGgC:
