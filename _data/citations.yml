@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-17'
 papers:
   xvh45fUAAAAJ:0EnyYjriUFMC:
     citations: 3
     title: Varifocal near-eye display with extended eyebox using dual slit-mirror array
     year: '2025'
   xvh45fUAAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 27
     title: Super multi-view near-eye display with a lightguide combiner
     year: '2022'
   xvh45fUAAAAJ:3fE2CSJIrl8C:
@@ -74,7 +74,7 @@ papers:
     title: Lightguide type Maxwellian near-eye display with enlarged horizontal field of view by optical reconfiguration of input image
     year: '2022'
   xvh45fUAAAAJ:eQOLeE2rZwMC:
-    citations: 19
+    citations: 20
     title: Varifocal occlusion in an optical see-through near-eye display with a single phase-only liquid crystal on silicon
     year: '2024'
   xvh45fUAAAAJ:hqOjcs7Dif8C:
