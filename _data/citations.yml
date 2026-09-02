@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-02'
 papers:
   xvh45fUAAAAJ:0EnyYjriUFMC:
-    citations: 3
+    citations: 4
     title: Varifocal near-eye display with extended eyebox using dual slit-mirror array
     year: '2025'
   xvh45fUAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 30
     title: Super multi-view near-eye display with a lightguide combiner
     year: '2022'
   xvh45fUAAAAJ:3fE2CSJIrl8C:
@@ -58,13 +58,17 @@ papers:
     title: Field of view and angular-resolution enhancement in microlens array type virtual reality near-eye display using polarization grating
     year: '2025'
   xvh45fUAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 9
     title: Slim Maxwellian near-eye display for virtual reality using point light source array
     year: '2024'
   xvh45fUAAAAJ:WF5omc3nYNoC:
     citations: 0
     title: Eyebox Expansion and Vision Correction for Varifocal Near-Eye-Display Using Two Dimensional Retro-Reflection
     year: '2023'
+  xvh45fUAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Resolution improvement of super-multi-view near-eye displays via stochastic gradient descent method
+    year: '2026'
   xvh45fUAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Video see-through super multi-view near eye display using waveguide-type light source and ferroelectric liquid crystal on silicon
@@ -90,7 +94,7 @@ papers:
     title: Waveguide-type Maxwellian near-eye display using a pin-mirror holographic optical element array
     year: '2022'
   xvh45fUAAAAJ:ufrVoPGSRksC:
-    citations: 35
+    citations: 37
     title: 'Recent applications of optical elements in augmented and virtual reality displays: a review'
     year: '2024'
   xvh45fUAAAAJ:zYLM7Y9cAGgC:
